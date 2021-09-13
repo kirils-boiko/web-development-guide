@@ -77,16 +77,19 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 
 - ### HTML
     - [ ] [Introductory Article](https://html.com/)
-    - [ ] [Tutorial for Beginners (video)](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)
+    - Pick one: 
+        - [ ] [Tutorial for Beginners from Mosh Programming (video)](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)
+        - [ ] [Tutorial for Beginners from Clever Programmer (video)](https://www.youtube.com/watch?v=FNGoExJlLQY&ab_channel=CleverProgrammer)
+        - [ ] [Tutorial for Beginners from Traversy Media(video)](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8&ab_channel=TraversyMedia)
     - Pick one:
         - [ ] [Comprehensive 9-hour Tutorial from W3 Schools](https://www.w3schools.com/html/html_intro.asp)
         - [ ] [Comprehensive 9-hour Tutorial from CodeAcademy.org](https://www.codecademy.com/learn/learn-html)
         - [ ] [Tutorial from Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
 
 - ### CSS
-    - [ ] [Cool 3-hour Tutorial from Clever Programming (video)](https://www.youtube.com/watch?v=KN6oBEOz2ZI)
+    - [ ] [Cool 3-hour Tutorial from Clever Programmer (video)](https://www.youtube.com/watch?v=KN6oBEOz2ZI)
 - ### JavaScript
-    - [ ] [Cool 8-hour Tutorial from Clever Programming (video)](https://www.youtube.com/watch?v=Qqx_wzMmFeA)
+    - [ ] [Cool 8-hour Tutorial from Clever Programmer (video)](https://www.youtube.com/watch?v=Qqx_wzMmFeA)
 
 ## OS and General Knowledge
 
