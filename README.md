@@ -71,7 +71,7 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 ## What is Internet?
 
 - Nothing to implement. Watch enough videos until you understand it well enough.
-- [How Internet Works (videos)[(https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&ab_channel=Code.org)
+- [How Internet Works (videos)](https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&ab_channel=Code.org)
 
 ## Frontend Basics
 
