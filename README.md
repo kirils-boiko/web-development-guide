@@ -10,6 +10,7 @@ This is a step-by-step guide for becoming a self-taught backend software develop
 It covers various topics ranging from the basics of the Internet to the programming languages required (i.e., this guide focuses on JavaScript).
 I intend to continuously update the guide as I venture out into the world of software development.
 Inspired by the [Step by step guide to becoming a modern backend developer in 2021](https://roadmap.sh/backend)
+Another short guide for beginners https://www.upwork.com/resources/beginners-guide-back-end-development 
 
 ---
 
