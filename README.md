@@ -4,7 +4,7 @@
 > A comprehensive guide to becoming a self-taught backend software developer.
 > Guide is presented in the form of a short to-do list.
 
-### Intro
+## Intro
 
 This is a step-by-step guide for becoming a self-taught backend software developer with no/little previous experience in the field.
 It covers various topics ranging from the basics of the Internet to the programming languages required.
@@ -13,7 +13,7 @@ Inspired by the [Step by step guide to becoming a modern backend developer in 20
 
 ---
 
-### Table of Contents
+## Table of Contents
 
 - [Intro](#intro) 
 - [What is Internet?](#what-is-internet)
@@ -22,6 +22,7 @@ Inspired by the [Step by step guide to becoming a modern backend developer in 20
     - [CSS](#css)
     - [JavaScript](#javascript)
 - [OS and General Knowledge](#os-and-general-knowledge)
+    - [Basic Networking Concepts](#basic-networking-concepts)
     - [Terminal Usage](#terminal-usage)
     - [Workings of OSs](#workings-of-oss)
     - [Process Management](#process-management)
@@ -30,7 +31,7 @@ Inspired by the [Step by step guide to becoming a modern backend developer in 20
     - [Interprocess Communication](#interprocess-communication)
     - [I/O management](#i/o-management)
     - [POSIX Basics](#posix-basics)
-    - [Basic Networking Concepts](#basic-networking-concepts)
+   
 - [Language and Its Backend Framework](#language-and-its-backend-framework)
     - [Comprehensive JavaScript](#comprehensive-javascript)
     - [Express.js](#express.js)
@@ -58,3 +59,31 @@ Inspired by the [Step by step guide to becoming a modern backend developer in 20
 - [Cloud services](#cloud-services)
     - [Firebase](#firebase)
     - [AWS](#aws)
+
+## What is Internet?
+
+- Nothing to implement. Watch enough videos until you understand it well enough.
+- 
+
+## Frontend Basics
+
+- ### HTML
+
+- ### CSS
+
+- ### JavaScript
+
+## OS and General Knowledge
+
+- ### Basic Networking Concepts
+    - Nothing to implement.
+    - [ ] [Introductory slides](https://www.ece.uvic.ca/~itraore/elec567-13/notes/dist-03-4.pdf)
+
+- ### Terminal Usage
+
+- ### Workings of OSs
+
+- ### Process Management
+
+- ### Threads and Concurrency
+
