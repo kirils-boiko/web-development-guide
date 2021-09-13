@@ -81,7 +81,7 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
     - Pick one:
     - [ ] [Comprehensive 9-hour Tutorial from W3 Schools](https://www.w3schools.com/html/html_intro.asp)
     - [ ] [Comprehensive 9-hour Tutorial from CodeAcademy.org](https://www.codecademy.com/learn/learn-html)
-    - [ ] [Tutorial from Khan Academy[(https://www.khanacademy.org/computing/computer-programming/html-css)
+    - [ ] [Tutorial from Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
 
 - ### CSS
 
