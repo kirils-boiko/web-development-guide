@@ -1,7 +1,7 @@
 # Web Development Guide
 
 <p align="center">
-    <img width="460" height="300" src=https://otakuprogrammer.files.wordpress.com/2014/08/kaoru-yamazaki.png>
+    <img width="520" height="320" src=https://otakuprogrammer.files.wordpress.com/2014/08/kaoru-yamazaki.png>
 </p>
          
 
