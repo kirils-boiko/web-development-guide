@@ -1,6 +1,9 @@
 # Web Development Guide
 
-![Cutiepie](https://otakuprogrammer.files.wordpress.com/2014/08/kaoru-yamazaki.png)
+<p align="center">
+    <img width="460" height="300" src=https://otakuprogrammer.files.wordpress.com/2014/08/kaoru-yamazaki.png>
+</p>
+         
 
 > A comprehensive guide to becoming a self-taught backend software developer.
 > Guide is presented in the form of a short to-do list.
