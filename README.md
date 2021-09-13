@@ -80,7 +80,7 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
     - Pick one: 
         - [ ] [Tutorial for Beginners from Mosh Programming (video)](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)
         - [ ] [Tutorial for Beginners from Clever Programmer (video)](https://www.youtube.com/watch?v=FNGoExJlLQY&ab_channel=CleverProgrammer)
-        - [ ] [Tutorial for Beginners from Traversy Media(video)](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8&ab_channel=TraversyMedia)
+        - [ ] [Tutorial for Beginners from Traversy Media (video)](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8&ab_channel=TraversyMedia)
     - Pick one:
         - [ ] [Comprehensive 9-hour Tutorial from W3 Schools](https://www.w3schools.com/html/html_intro.asp)
         - [ ] [Comprehensive 9-hour Tutorial from CodeAcademy.org](https://www.codecademy.com/learn/learn-html)
