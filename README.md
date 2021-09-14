@@ -39,7 +39,9 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
     - [Interprocess Communication](#interprocess-communication)
     - [I/O management](#i/o-management)
     - [POSIX Basics](#posix-basics)
-- [Server-side Programming Languages](#server-side-programming-language
+- [Server-side Programming Languages](#server-side-programming-language)
+    - [Java](java)
+    - [JavaScript](javascript) 
 - [Backend Frameworks](#backend-frameworks)
     - [Express.js](#express.js)
 - [Version Control](#version-control)
