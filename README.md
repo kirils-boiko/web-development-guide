@@ -39,6 +39,7 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
     - [Interprocess Communication](#interprocess-communication)
     - [I/O management](#i/o-management)
     - [POSIX Basics](#posix-basics)
+- [Server-side Programming Languages](#server-side-programming-language
 - [Backend Frameworks](#backend-frameworks)
     - [Express.js](#express.js)
 - [Version Control](#version-control)
@@ -95,8 +96,7 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
         - [ ] [Comprehensive 9-hour Tutorial from W3 Schools](https://www.w3schools.com/html/html_intro.asp)
         - [ ] [Comprehensive 9-hour Tutorial from CodeAcademy.org](https://www.codecademy.com/learn/learn-html)
         - [ ] [Tutorial from Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
-    
-
+   
 - ### CSS   
     - Make sure you understand the basics of:
         - [ ] CSS Styling (colors, fonts, spacing, margins, padding)
@@ -136,6 +136,12 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 - ### I/O Management
 
 - ### POSIX Basics
+
+## Server-side Programming Languages
+
+- ### Java
+
+- ### JavaScript
 
 ## Backend Frameworks
 
