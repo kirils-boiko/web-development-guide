@@ -75,7 +75,9 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 
 ## Projects
 - Once you are comfortable with fundamentals, come back here to start working on your own projects - this way you learn faster!
-- Check out projects from [freeCodeCamp](https://www.freecodecamp.org/)
+- Check one of these:
+    - [ ] Projects from [freeCodeCamp](https://www.freecodecamp.org/)
+    - [ ] Udemy's course [50 Projects in 50 Days](https://www.udemy.com/course/50-projects-50-days/)
 
 ## What is Internet?
 
@@ -85,6 +87,7 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 ## Frontend Basics
 
 - ### HTML
+    - Make sure you understand the basics of HTML 5 page structure and semantic tags   
     - [ ] [Introductory Article](https://html.com/)
     - Pick one: 
         - [ ] [Tutorial for Beginners from Mosh Programming (video)](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)
@@ -94,11 +97,25 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
         - [ ] [Comprehensive 9-hour Tutorial from W3 Schools](https://www.w3schools.com/html/html_intro.asp)
         - [ ] [Comprehensive 9-hour Tutorial from CodeAcademy.org](https://www.codecademy.com/learn/learn-html)
         - [ ] [Tutorial from Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
+    
 
-- ### CSS
+- ### CSS   
+    - Make sure you understand the basics of:
+        - [ ] CSS Styling (colors, fonts, spacing, margins, padding)
+        - [ ] Positioning (absolute, relative, fixed)
+        - [ ] Alignment (Flexbox and/or CSS Grid)
+        - [ ] Responsive Design / Media Queries
     - [ ] [Cool 3-hour Tutorial from Clever Programmer (video)](https://www.youtube.com/watch?v=KN6oBEOz2ZI)
+
 - ### JavaScript
+    - Make sure you have a good understanding of:
+        - [ ] Basics (variables, arrays, functions, loops, etc)
+        - [ ] DOM & Styling (selecting and manipulating elements)
+        - [ ] Array Methods (foreach, map, filter, reduce, etc)
+        - [ ] JSON (JavaScript Object Notation)
+        - [ ] HTTP Requests (Fetch API - GET, POST, PUT, DELETE)
     - [ ] [Cool 8-hour Tutorial from Clever Programmer (video)](https://www.youtube.com/watch?v=Qqx_wzMmFeA)
+    - [ ] [Huuge playlist on Vanilla JavaScript from Traversy Media (videos)](https://www.youtube.com/watch?v=hdI2bqOjy3c&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&ab_channel=TraversyMedia)
 
 ## OS and General Knowledge
 
