@@ -146,4 +146,53 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 
 - ### In Depth JavaScript
 
+### Threads and Concurrency
+
+- ### Memory Management
+
+- ### Interprocess Communication
+
+- ### I/O Management
+
+- ### POSIX Basics
+
 ## Backend Frameworks
+
+- ### Spring
+
+- ### Express.js
+
+## Version Control
+
+- ### Git
+
+- ### GitHub
+
+## Databases
+
+- ### SQL (Relational) Databases
+- ### NoSQL Databases
+- ### ORMS
+- ### ACID
+- ### Transactions
+- ### N+1 Problem
+- ### Database Normalization
+- ### Indexes
+
+## APIs
+
+- ### Authentication
+- ### REST
+- ### JSON
+- ### SOAP
+
+## Continuous Integration
+
+- ### Test Coverage
+- ### Code Analysis
+- ### Unit Test
+
+## Cloud Services 
+
+- ### Firebase
+- ### AWS
