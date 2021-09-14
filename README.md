@@ -41,7 +41,7 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
     - [POSIX Basics](#posix-basics)
 - [Server-side Programming Languages](#server-side-programming-language)
     - [Java](java)
-    - [JavaScript](javascript) 
+    - [In-depth JavaScript](in-depth-javascript) 
 - [Backend Frameworks](#backend-frameworks)
     - [Express.js](#express.js)
 - [Version Control](#version-control)
@@ -143,7 +143,7 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 
 - ### Java
 
-- ### JavaScript
+- ### In-depth JavaScript
 
 ## Backend Frameworks
 
