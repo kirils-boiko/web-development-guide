@@ -39,9 +39,9 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
     - [Interprocess Communication](#interprocess-communication)
     - [I/O management](#i/o-management)
     - [POSIX Basics](#posix-basics)
-- [Server-side Programming Languages](#--server-side--programming-languages)
+- [Server side Programming Languages](#server-side-programming-languages)
     - [Java](java)
-    - [In-depth JavaScript](in-depth-javascript) 
+    - [In Depth JavaScript](in-depth-javascript) 
 - [Backend Frameworks](#backend-frameworks)
     - [Express.js](#express.js)
 - [Version Control](#version-control)
@@ -143,43 +143,4 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 
 - ### Java
 
-- ### In-depth JavaScript
-
-## Backend Frameworks
-
-- ### Express.js
-
-## Version Control
-
-- ### Git
-
-- ### GitHub
-
-## Databases
-
-- ### SQL (Relational) Databases
-- ### NoSQL Databases
-- ### ORMS
-- ### ACID
-- ### Transactions
-- ### N+1 Problem
-- ### Database Normalization
-- ### Indexes
-
-## APIs
-
-- ### Authentication
-- ### REST
-- ### JSON
-- ### SOAP
-
-## Continuous Integration
-
-- ### Test Coverage
-- ### Code Analysis
-- ### Unit Test
-
-## Cloud Services 
-
-- ### Firebase
-- ### AWS
+- ### In
