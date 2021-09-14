@@ -140,13 +140,7 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 
 - ### POSIX Basics
 
-## Server-side Programming Languages
-
-- ### Java
-
-- ### In Depth JavaScript
-
-### Threads and Concurrency
+- ### Threads and Concurrency
 
 - ### Memory Management
 
@@ -155,6 +149,12 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 - ### I/O Management
 
 - ### POSIX Basics
+
+## Server-side Programming Languages
+
+- ### Java
+
+- ### In Depth JavaScript
 
 ## Backend Frameworks
 
