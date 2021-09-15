@@ -173,7 +173,9 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 
 - ### SQL (Relational) Databases
 - ### NoSQL Databases
-- ### ORMS
+- ### ORMs
+    - [ ] Sequelize
+    - [ ] Mongoose 
 - ### ACID
 - ### Transactions
 - ### N+1 Problem
@@ -192,6 +194,7 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 - ### Test Coverage
 - ### Code Analysis
 - ### Unit Test
+    - Unit tests are performed on individual units such as functions or classes.   
 
 ## Cloud Services 
 
