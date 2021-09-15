@@ -153,6 +153,7 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 ## Server-side Programming Languages
 
 - ### Java
+    - [ ] [25-hour Course from CodeAcademy](https://www.codecademy.com/learn/learn-java) 
 
 - ### In Depth JavaScript
 
