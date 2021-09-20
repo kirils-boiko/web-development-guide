@@ -107,6 +107,10 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
         - [ ] Alignment (Flexbox and/or CSS Grid)
         - [ ] Responsive Design / Media Queries
     - [ ] [Cool 3-hour Tutorial from Clever Programmer (video)](https://www.youtube.com/watch?v=KN6oBEOz2ZI)
+    - Look into the basics of main CSS framework, Bootstrap:
+        - [ ] [Introduction to Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
+    - Flexbox web layout:
+        - [ ] [Comprehensive Guide to Flexbox Layout](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 - ### JavaScript
     - Make sure you have a good understanding of:
