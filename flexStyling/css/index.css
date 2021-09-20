@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@300&display=swap');
+
+body {
+    font-family: 'Gluten', cursive;
+}
+
+/* Using the flexbox functionality to create a website
+    with responsive web layout model */
+
+.container {
+    display: flex;
+    border: 5px solid #ffcc5c;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.container div {
+    margin: 10px;
+    text-align: center;
+    font-size: 2em;
+    color: white;
+}
+
+.item1 {
+    background-color: darkred;
+    order: 1;
+}
+
+.item2 {
+    background-color: purple;
+    order: 2;
+}
+
+.item3 {
+    background-color: darkgoldenrod;
+    order: 3;
+}

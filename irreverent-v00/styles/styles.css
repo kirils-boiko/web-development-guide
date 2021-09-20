@@ -1,0 +1,105 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+    background-image: url(../bg/concrete-texture.png);
+    font-family: 'Bebas Neue', cursive;
+}
+
+.navibar {
+    background-color: #333333;
+    position: fixed;
+    list-style-type: none;
+    margin: auto;
+    overflow: hidden;   
+    opacity: 1;
+    width: 100%;
+    z-index: 100;   /* to keep it in front of elements*/
+    
+}
+
+.navibar li {
+    float: left;
+}
+
+.navibar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 30px;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.navibar li a:hover {
+    background-color: black;
+    color: white !important;
+}
+
+.active {
+    background-color: yellow;
+    color: black !important;
+}
+
+.opn-statement {
+    max-width: 60vw;
+    font-size: 3vw;
+    margin: auto;
+    padding-top: 5vw;
+    text-align: center;
+}
+
+.scnd-statement {
+    font-weight: 500;
+    font-size: 2.5vw;
+    line-height: 1.5em;
+    max-width: 55vw;
+    padding-top: 1vw;
+    text-align: center;
+    margin:auto;
+    
+}
+
+.pic-container {
+    position: relative;
+    margin: auto;
+}
+
+.main-pic {
+    display:block;
+    position: relative;
+    width: 30.625vw;
+    height: 35vw;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2vw;
+}
+
+.scnd-pic {
+    display: block;
+    position: absolute;
+    border-radius: 20px;
+    width: 40px;
+    height: 40px;
+    top: 35%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    opacity: 0.7;
+
+}
+
+.form-group {
+    padding-top: 10px;
+    max-width: 30%;
+    margin: auto;
+}
+
+.btn {
+    margin-left: 35%; 
+}
+
+mark {
+    background-color: yellow;
+}

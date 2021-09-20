@@ -1,0 +1,197 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+
+/* Style the navbar */
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    background-color: #08538C;
+    opacity: 0.8;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.navbar a {
+    float: left;
+    color: #F9DC03;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* change the style of links on hover */
+.navbar a:hover {
+    font-size: 110%;
+    color: #EBA02A;
+    background-color: #093153;
+}
+
+/* change the style of the active/current link */
+.navbar a:active {
+    background-color: #191F2D;
+    font-weight: bold;
+    font-size:120%;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-image: url("bg-pattern.png");
+    max-width: 800px;
+    margin:auto;
+}
+
+
+/* Changing the style of a header 1 */
+h1 {
+    color: green;
+    font-weight: bold;
+    font-size: 60px;
+    margin: auto;
+    text-align: center;
+}
+
+/* Changing the style of a header 1 link */
+h1 a {
+    color: red;
+}
+
+/* Chaning the style of a header 2 */
+h2 {
+
+}
+
+/* Changing the style of a header 2 link when hovering on that */
+h2 a:hover {
+    color: pink;
+}
+
+/* Changing the style of particular object using id (# for ids)*/
+#wow-art {
+    border-radius: 150px;
+    box-shadow: 5px 5px #D4D4D4;
+}
+
+#wow-art:hover {
+    -webkit-box-shadow: 15px 13px 24px 6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 15px 13px 24px 6px rgba(0,0,0,0.75);
+    box-shadow: 15px 13px 24px 6px rgba(0,0,0,0.75);
+}
+
+/* Changing the style of particular class using class name (. for classes) */
+.wowPics {
+    display: block;
+    border-radius: 30px;
+    border: 2px solid #555555;
+    padding: 5px;
+    width: 300px;
+    height: 300px; 
+    opacity: 1;
+}
+
+.Pics {
+    display: block;
+    width: 250px;
+    height: 250px; 
+    opacity: 1;
+}
+
+/* Adding a class for hovering onto the wowPics class */
+
+.wowPics:hover {
+    padding: 0%;
+    border-width: 7px;
+
+    -webkit-box-shadow: 15px 13px 24px 9px rgba(0,0,0,0.75);
+    -moz-box-shadow: 15px 13px 24px 9px rgba(0,0,0,0.75);
+    box-shadow: 15px 13px 24px 9px rgba(0,0,0,0.75);
+}
+
+
+/* Making the image fade in overlay when hovering */
+
+.container {
+    position: relative;
+    width: 314px;
+    height: 314px;
+}
+
+.overlay {
+    position: absolute;
+    border-radius: 30px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: 1s ease;
+    background-color: #555555;
+}
+
+.overlayPics {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: 1s ease;
+}
+
+.container:hover .overlay {
+    opacity:0.8;
+}
+
+.container:hover .overlayPics{
+    opacity: 1;
+}
+
+.text {
+    color:white;
+    font-size: 30px;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+
+/* Changing the color of unordered list bullet points */
+ul li {
+    color: purple;
+}
+
+ul li:hover {
+    color: green;
+}
+
+ul li a {
+    color: red;
+}
+
+ul li a:hover {
+    font-weight:bold;
+    font-size:110%;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+ol {
+    text-align:center;
+}
+
+a:visited {
+    text-decoration: none;
+}
