@@ -121,6 +121,8 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
         - [ ] HTTP Requests (Fetch API - GET, POST, PUT, DELETE)
     - [ ] [Cool 8-hour Tutorial from Clever Programmer (video)](https://www.youtube.com/watch?v=Qqx_wzMmFeA)
     - [ ] [Huuge playlist on Vanilla JavaScript from Traversy Media (videos)](https://www.youtube.com/watch?v=hdI2bqOjy3c&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&ab_channel=TraversyMedia)
+    - Sources for JavaScript documentations and tutorials:
+        - [MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## OS and General Knowledge
 
