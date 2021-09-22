@@ -111,6 +111,8 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
         - [x] [Introduction to Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
     - Flexbox web layout:
         - [x] [Comprehensive Guide to Flexbox Layout](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+    - Useful sources:
+        - [Selector syntax](https://www.w3schools.com/cssref/css_selectors.asp)
 
 - ### JavaScript
     - Make sure you have a good understanding of:
