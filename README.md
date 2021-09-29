@@ -122,9 +122,9 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
         - [x] JSON (JavaScript Object Notation)
         - [ ] HTTP Requests (Fetch API - GET, POST, PUT, DELETE)
     - [x] [Cool 8-hour Tutorial from Clever Programmer (video)](https://www.youtube.com/watch?v=Qqx_wzMmFeA)
-    - [ ] [Huuge playlist on Vanilla JavaScript from Traversy Media (videos)](https://www.youtube.com/watch?v=hdI2bqOjy3c&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&ab_channel=TraversyMedia)
     - Useful sources:
         - [MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+        - [Huuge playlist on Vanilla JavaScript from Traversy Media (videos)](https://www.youtube.com/watch?v=hdI2bqOjy3c&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&ab_channel=TraversyMedia)
 
 ## OS and General Knowledge
 
