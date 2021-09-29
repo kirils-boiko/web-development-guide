@@ -161,13 +161,16 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 ## Server-side Programming Languages
 
 - ### Java
-    - [ ] [25-hour Course from CodeAcademy](https://www.codecademy.com/learn/learn-java) 
+    - [ ] [25-hour Course from CodeAcademy](https://www.codecademy.com/learn/learn-java)
+    - Useful sources:
+        - [Java Brains](https://www.youtube.com/c/JavaBrainsChannel/playlists) 
 
 - ### In Depth JavaScript
 
 ## Backend Frameworks
 
 - ### Spring
+    - [ ] [What Is It About?](https://www.youtube.com/watch?v=gq4S-ovWVlM)   
 
 - ### Express.js
 
