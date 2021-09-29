@@ -29,21 +29,14 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
     - [HTML](#html)
     - [CSS](#css)
     - [JavaScript](#javascript)
-- [OS and General Knowledge](#os-and-general-knowledge)
-    - [Basic Networking Concepts](#basic-networking-concepts)
-    - [Terminal Usage](#terminal-usage)
-    - [Workings of OSs](#workings-of-oss)
-    - [Process Management](#process-management)
-    - [Threads and Concurrency](#threads-and-concurrency)
-    - [Memory Management](#memory-management)
-    - [Interprocess Communication](#interprocess-communication)
-    - [I/O management](#i/o-management)
-    - [POSIX Basics](#posix-basics)
-- [Server side Programming Languages: Java](#server-side-programming-languages-java)
+- [Server Side Programming Languages: Java](#server-side-programming-languages-java)
     - [Java Core](#java-core)
     - [Servlets and JSPs](#servlets-and-jsps)
     - [Spring Framework](#spring-framework)
-- [Server side Programming Languages: JavaScript](#server-side-programming-languages-javascript)
+    - [Spring MVC](#spring-mvc)
+    - [Hibernate](#hibernate)
+    - [Spring Boot](#spring-boot)
+- [Server Side Programming Languages: JavaScript](#server-side-programming-languages-javascript)
     - [Express.js](#express.js)
 - [Version Control](#version-control)
     - [Git](#git)
@@ -62,6 +55,16 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
     - [REST](#rest)
     - [JSON](#json)
     - [SOAP](#soap)
+- [OS and General Knowledge](#os-and-general-knowledge)
+    - [Basic Networking Concepts](#basic-networking-concepts)
+    - [Terminal Usage](#terminal-usage)
+    - [Workings of OSs](#workings-of-oss)
+    - [Process Management](#process-management)
+    - [Threads and Concurrency](#threads-and-concurrency)
+    - [Memory Management](#memory-management)
+    - [Interprocess Communication](#interprocess-communication)
+    - [I/O management](#i/o-management)
+    - [POSIX Basics](#posix-basics)
 - [Continuous Integration](#continuous-integration)
     - [Test Coverage](#test-coverage)
     - [Code Analysis](#code-analysis)
@@ -126,6 +129,59 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
         - [MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
         - [Huuge playlist on Vanilla JavaScript from Traversy Media (videos)](https://www.youtube.com/watch?v=hdI2bqOjy3c&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&ab_channel=TraversyMedia)
 
+## Server-side Programming Languages: Java
+
+- ### Java Core
+    - Make sure you understand:
+        - [ ] Object Oriented Programming
+        - [ ] Generics
+        - [ ] Concurrency APIs
+        - [ ] Collection APIs  
+    - Useful sources:
+        - [ ] [25-hour Course from CodeAcademy](https://www.codecademy.com/learn/learn-java) 
+        - [Java Brains](https://www.youtube.com/c/JavaBrainsChannel/playlists) 
+
+- ### Servlets and JSPs
+
+- ### Spring Framework
+    - [ ] [What Is It About?](https://www.youtube.com/watch?v=gq4S-ovWVlM)
+
+- ### Spring MVC
+
+- ### Hibernate
+
+- ### Spring Boot
+
+## Server-side Programming Languages: JavaScript
+
+- ### Express.js
+
+## Version Control
+
+- ### Git
+
+- ### GitHub
+
+## Databases
+
+- ### SQL (Relational) Databases
+- ### NoSQL Databases
+- ### ORMs
+    - [ ] Sequelize
+    - [ ] Mongoose 
+- ### ACID
+- ### Transactions
+- ### N+1 Problem
+- ### Database Normalization
+- ### Indexes
+
+## APIs
+
+- ### Authentication
+- ### REST
+- ### JSON
+- ### SOAP
+
 ## OS and General Knowledge
 
 - ### Basic Networking Concepts
@@ -157,53 +213,6 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 - ### I/O Management
 
 - ### POSIX Basics
-
-## Server-side Programming Languages: Java
-
-- ### Java Core
-    - Make sure you understand:
-        - [ ] Object Oriented Programming
-        - [ ] Generics
-        - [ ] Concurrency APIs
-        - [ ] Collection APIs  
-    - Useful sources:
-        - [ ] [25-hour Course from CodeAcademy](https://www.codecademy.com/learn/learn-java) 
-        - [Java Brains](https://www.youtube.com/c/JavaBrainsChannel/playlists) 
-
-- ### Servlets and JSPs
-
-- ### Spring Framework
-    - [ ] [What Is It About?](https://www.youtube.com/watch?v=gq4S-ovWVlM)
-
-## Server-side Programming Languages: JavaScript
-
-- ### Express.js
-
-## Version Control
-
-- ### Git
-
-- ### GitHub
-
-## Databases
-
-- ### SQL (Relational) Databases
-- ### NoSQL Databases
-- ### ORMs
-    - [ ] Sequelize
-    - [ ] Mongoose 
-- ### ACID
-- ### Transactions
-- ### N+1 Problem
-- ### Database Normalization
-- ### Indexes
-
-## APIs
-
-- ### Authentication
-- ### REST
-- ### JSON
-- ### SOAP
 
 ## Continuous Integration
 
