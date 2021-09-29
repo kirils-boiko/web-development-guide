@@ -39,11 +39,11 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
     - [Interprocess Communication](#interprocess-communication)
     - [I/O management](#i/o-management)
     - [POSIX Basics](#posix-basics)
-- [Server side Programming Languages](#server-side-programming-languages)
-    - [Java](java)
-    - [In Depth JavaScript](in-depth-javascript) 
-- [Backend Frameworks](#backend-frameworks)
-    - [Spring](#spring)
+- [Server side Programming Languages: Java](#server-side-programming-languages:-java)
+    - [Java Core](#java-core)
+    - [Servlets and JSPs](#servlets-and-jsps)
+    - [Spring Framework](#spring-framework)
+- [Server side Programming Languages: JavaScript](#server-side-programming-languages:-javascript)
     - [Express.js](#express.js)
 - [Version Control](#version-control)
     - [Git](#git)
@@ -158,19 +158,24 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 
 - ### POSIX Basics
 
-## Server-side Programming Languages
+## Server-side Programming Languages: Java
 
-- ### Java
-    - [ ] [25-hour Course from CodeAcademy](https://www.codecademy.com/learn/learn-java)
+- ### Java Core
+    - Make sure you understand:
+        - [ ] Object Oriented Programming
+        - [ ] Generics
+        - [ ] Concurrency APIs
+        - [ ] Collection APIs  
     - Useful sources:
+        - [ ] [25-hour Course from CodeAcademy](https://www.codecademy.com/learn/learn-java) 
         - [Java Brains](https://www.youtube.com/c/JavaBrainsChannel/playlists) 
 
-- ### In Depth JavaScript
+- ### Servlets and JSPs
 
-## Backend Frameworks
+- ### Spring Framework
+    - [ ] [What Is It About?](https://www.youtube.com/watch?v=gq4S-ovWVlM)
 
-- ### Spring
-    - [ ] [What Is It About?](https://www.youtube.com/watch?v=gq4S-ovWVlM)   
+## Server-side Programming Languages: JavaScript
 
 - ### Express.js
 
