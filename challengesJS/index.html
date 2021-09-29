@@ -1,0 +1,114 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Challenges</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+    <nav id="nav-bar" class="navbar navbar-expand-sm sticky-top p-1">
+        <div class="navbar-brand m-0">
+            <img src="./static/images/logo.png" width="120px" height="60px">    
+        </div>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav m-0">
+                <li class="nav-item">
+                    <a class="nav-link my-shadows-1" href="#">Basic JavaScript Challenges<span class="sr-only">(current)</span></a>
+                  </li>
+            </ul>
+        </div>
+        
+    </nav>
+    <section class="container-sm outer-box mt-5">
+        <section id="inner-container" class="container-sm p-3 inner-box d-flex flex-wrap justify-content-center">
+            <h2 class="m-2 mb-3 my-shadows-2">ROCK, PAPER, SCISSORS</h2>
+            <div id="gradient-line" class="container-sm outer-box px-"></div>
+            <div id="img-container" class="container-sm d-flex flex-wrap justify-content-center align-items-center">
+                <img onclick="rpsGame(this)" id="rock" class="my-hover" src="https://imgix.bustle.com/uploads/image/2021/8/25/a16c092b-031e-4249-9e0a-280da832873f-grey-stone-rock-vector-clipart_800.png?w=349&h=493&fit=max&auto=format%2Ccompress">
+                <img onclick="rpsGame(this)" id="paper" class="my-hover" src="https://www.pinclipart.com/picdir/big/23-237515_primary-writing-paper-clipart-clip-art-library-in.png">
+                <img onclick="rpsGame(this)" id="scissors" class="my-hover" src="./static/images/scissors.png">
+            </div>    
+        </section>
+    </section>
+    
+    <section class="container-sm outer-box mt-5">
+        <section class="container-sm p-3 inner-box d-flex flex-wrap justify-content-center">
+            <h2 class="m-2 mb-3 my-shadows-2">CHANGE THE BUTTON COLORS</h2>
+            <div id="gradient-line" class="container-sm outer-box px-"></div>
+            <div id="button-container" class="container-sm d-inline-flex flex-wrap justify-content-around align-items-center">
+                <form action="" class="mt-4">
+                    <select name="backdrop" id="background" onchange="buttonColorChange(this)">
+                        <option value="reset">Reset</option>
+                        <option value="random">Random</option>
+                        <option value="rustyred">Rusty red</option>
+                        <option value="gunmetal">Gun metal</option>
+                        <option value="white">White</option>
+                    </select>
+                </form>
+
+                <button class="btn buttons my-button-1">Wee!</button>
+                <button class="btn buttons my-button-2">Wee!</button>
+                <button class="btn buttons my-button-3">Wee!</button>
+            </div>    
+        </section>
+    </section>
+
+    <section class="container-sm outer-box mt-5">
+        <section class="container-sm p-3 inner-box d-flex flex-wrap justify-content-center">
+            <h2 class="m-2 mb-3 my-shadows-2">BLACKJACK</h2>
+            <div id="gradient-line" class="container-sm outer-box"></div>
+            <div id="bj-container" class="container-sm d-flex flex-column justify-content-around align-items-center flex-wrap mt-3">
+                <div class="bj-row-1 d-flex flex-wrap mt-2">
+                    <div id="your-box" class="m-2 d-flex flex-wrap justify-content-center">
+                        <h2 class="text-center break mt-3">You: <span id="your-bj-result">0</span></h2>
+
+                    </div>
+                    <div id="dealer-box" class="m-2 d-flex flex-wrap justify-content-center">
+                        <h2 class="text-center break mt-3">Dealer: <span id="dealer-bj-result">0</span></h2>
+                    </div>
+                </div>
+                <div class="bj-row-2 d-flex flex-wrap justify-content-center align-items-center">
+                    <h3 id="bj-result" class="m-3"><span>Let's play</span></h3>
+                </div>
+
+                <div class="bj-row-2 d-flex flex-wrap justify-content-center mb-2">
+                    <div class="m-3">
+                        <button id="bj-hit" class="btn-lg my-button-2 m-1">Hit</button>
+                        <button id="bj-stand" class="btn-lg my-button-3 m-1">Stand</button>
+                        <button id="bj-deal" class="btn-lg my-button-4 m-1">Deal</button>
+                    </div>
+                </div>
+
+                <div class="bj-row-3 d-flex justify-content-center">
+                    <table id="bj-table" class="table table-sm table-bordered m-2">
+                        <thead class="thead-light">
+                            <tr>
+                                <th>Wins</th>
+                                <th>Losses</th>
+                                <th>Draws</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td id="wins">0</td>
+                                <td id="losses">0</td>
+                                <td id="draws">0</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>    
+        </section>
+    </section>
+
+    <section>
+        <div>
+            Redundant
+        </div>
+    </section>
+
+
+    <script src="static/js/main.js"></script>
+</body>
+</html>

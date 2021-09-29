@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@500&display=swap');
+
+* {
+    /* font-family: 'Oswald', sans-serif; */
+    /* font-family: 'Russo One', sans-serif; */
+    font-family: 'Teko', sans-serif;
+    font-weight: 50;
+    font-size: 1.3rem;
+}
+
+body {
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  #18121E 0%, #233237 90% );
+}
+
+h2 {
+    color:#1A2C42;
+}
+
+#nav-bar {
+    /* background: linear-gradient(90deg, #AA0505, #AA0505, #DAB92D, #FFD83B, #DAB92D, #AA0505, #AA0505); */
+    background: #984B43;
+    color: #F7F5F0;
+}
+
+.navbar a {
+    font-size: 40px;
+    color: #F7F5F0;
+}
+
+.navbar a:hover {
+    color: #EAC67A;
+}
+
+.outer-box {
+    --borderWidth: 4px;
+    --borderRadius: 10px;
+    background-color: #EAC67A;
+    position: relative;
+    border-radius: var(--borderRadius);
+}
+
+.outer-box:after {
+    content: '';
+    position: absolute;
+    top: calc(-1 * var(--borderWidth));
+    left: calc(-1 * var(--borderWidth));
+    height: calc(100% + var(--borderWidth) * 2);
+    width: calc(100% + var(--borderWidth) * 2);
+    background: linear-gradient(90deg, #EAC67A, #1A2C42, #EAC67A, #1A2C42);
+    border-radius: var(--borderRadius);
+    z-index: -1;
+    animation: animatedgradient 5s linear normal infinite;
+    animation-delay: 0s;
+    background-size: 300% 300%;
+}
+
+#gradient-line {
+    z-index:1;
+    --borderWidth: 2px;
+}
+
+.inner-box {
+    background-color: #EAC67A;
+    border-radius: var(--borderRadius);
+}
+
+#rock, #paper, #scissors {
+    width: 150px;
+    height: 150px;
+    margin: 40px;
+}
+
+.my-hover:hover {
+    filter: drop-shadow(10px 10px 5px #1A2C42);
+}
+
+.my-shadows-1 {
+    text-shadow:
+    0.025em 0.025em #F7F5F0,
+    0.05em 0.05em #a9a9a9,
+    0.075em 0.075em #1A2C42
+}
+
+.my-shadows-2 {
+    text-shadow:
+    0.025em 0.025em #1A2C42,
+    0.05em 0.05em #F7F5F0,
+    0.075em 0.075em #F7F5F0
+}
+
+.my-button-1 {
+    background-color: #233237;
+    color: #F7F5F0;
+}
+
+.my-button-2 {
+    background-color: #984B43;
+    color: #F7F5F0;
+}
+
+.my-button-3 {
+    background-color: #F7F5F0 ;
+    color: #18121E;
+}
+
+.my-button-4 {
+    background-color: #EAC67A;
+    color: #18121E;
+}
+
+.my-button-1:hover, .my-button-3:hover {
+    color: #984B43;
+}
+
+.my-button-2:hover {
+    color: #EAC67A;
+}
+
+@keyframes animatedgradient {
+	0% {
+        background-position: 0% 0%;
+    }
+    100% {
+        background-position: 100% 100%;
+    }
+}
+
+#your-box, #dealer-box {
+    flex: 1;
+}
+
+.break {
+    flex-basis: 100%;
+}
+
+.bj-row-1, .bj-row-2 {
+    width: 90%;
+    background-image: url("../images/dark_wall_2X.png");
+}
+
+
+.bj-row-1 div {
+    height: 450px;
+}
+
+.bj-row-1 > div > h2, .bj-row-2 > h3  {
+    color: #F7F5F0;
+}
+
+#bj-table td, #bj-table th {
+    background-image: url("../images/dark_wall_2X.png");
+    color: #F7F5F0;
+    width: 33%;
+    text-align: center;
+}
