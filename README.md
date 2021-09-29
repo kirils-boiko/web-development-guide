@@ -112,18 +112,18 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
     - Flexbox web layout:
         - [x] [Comprehensive Guide to Flexbox Layout](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
     - Useful sources:
-        - [Selector syntax](https://www.w3schools.com/cssref/css_selectors.asp)
+        - [W3 Schools CSS Reference](https://www.w3schools.com/cssref/) 
 
 - ### JavaScript
     - Make sure you have a good understanding of:
-        - [ ] Basics (variables, arrays, functions, loops, etc)
-        - [ ] DOM & Styling (selecting and manipulating elements)
-        - [ ] Array Methods (foreach, map, filter, reduce, etc)
-        - [ ] JSON (JavaScript Object Notation)
+        - [x] Basics (variables, arrays, functions, loops, etc)
+        - [x] DOM & Styling (selecting and manipulating elements)
+        - [x] Array Methods (foreach, map, filter, reduce, etc)
+        - [x] JSON (JavaScript Object Notation)
         - [ ] HTTP Requests (Fetch API - GET, POST, PUT, DELETE)
-    - [ ] [Cool 8-hour Tutorial from Clever Programmer (video)](https://www.youtube.com/watch?v=Qqx_wzMmFeA)
+    - [x] [Cool 8-hour Tutorial from Clever Programmer (video)](https://www.youtube.com/watch?v=Qqx_wzMmFeA)
     - [ ] [Huuge playlist on Vanilla JavaScript from Traversy Media (videos)](https://www.youtube.com/watch?v=hdI2bqOjy3c&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&ab_channel=TraversyMedia)
-    - Sources for JavaScript documentations and tutorials:
+    - Useful sources:
         - [MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## OS and General Knowledge
