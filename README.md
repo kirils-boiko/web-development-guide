@@ -138,7 +138,8 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
         - [ ] Concurrency APIs
         - [ ] Collection APIs  
     - Useful sources:
-        - [ ] [25-hour Course from CodeAcademy](https://www.codecademy.com/learn/learn-java) 
+        - [ ] [25-hour Course from CodeAcademy](https://www.codecademy.com/learn/learn-java)
+        - [ ] [80-hour Course from Udemy]() 
         - [Java Brains](https://www.youtube.com/c/JavaBrainsChannel/playlists) 
 
 - ### Servlets and JSPs
