@@ -94,11 +94,11 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 - ### HTML
     - Make sure you understand the basics of HTML 5 page structure and semantic tags   
     - [ ] [Introductory Article](https://html.com/)
-    - Pick one: 
+    - [x] Pick one: 
         - [ ] [Tutorial for Beginners from Mosh Programming (video)](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)
         - [x] [Tutorial for Beginners from Clever Programmer (video)](https://www.youtube.com/watch?v=FNGoExJlLQY&ab_channel=CleverProgrammer)
         - [ ] [Tutorial for Beginners from Traversy Media (video)](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8&ab_channel=TraversyMedia)
-    - Pick one:
+    - [ ] Pick one:
         - [ ] [Comprehensive 9-hour Tutorial from W3 Schools](https://www.w3schools.com/html/html_intro.asp)
         - [ ] [Comprehensive 9-hour Tutorial from CodeAcademy.org](https://www.codecademy.com/learn/learn-html)
         - [ ] [Tutorial from Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
@@ -134,12 +134,17 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 - ### Java Core
     - Make sure you understand:
         - [ ] Object Oriented Programming
+            - [ ] [Inheritance](https://stackify.com/oop-concept-inheritance/)
+            - [ ] [Composition](https://stackify.com/oop-concepts-composition/)
+            - [ ] [Encapsulation](https://stackify.com/oop-concept-for-beginners-what-is-encapsulation/)
+            - [ ] [Polymorphism](https://stackify.com/oop-concept-polymorphism/) 
         - [ ] Generics
         - [ ] Concurrency APIs
         - [ ] Collection APIs  
+    - Personal recommendation:
+        - [ ] [80-hour Course from Udemy](https://www.udemy.com/course/java-the-complete-java-developer-course/) 
     - Useful sources:
-        - [ ] [25-hour Course from CodeAcademy](https://www.codecademy.com/learn/learn-java)
-        - [ ] [80-hour Course from Udemy]() 
+        - [25-hour Course from CodeAcademy](https://www.codecademy.com/learn/learn-java)
         - [Java Brains](https://www.youtube.com/c/JavaBrainsChannel/playlists) 
 
 - ### Servlets and JSPs
@@ -177,6 +182,8 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 - ### Indexes
 
 ## APIs
+
+- [ ] [What is an API?](https://www.mulesoft.com/resources/api/what-is-an-api)
 
 - ### Authentication
 - ### REST
