@@ -198,6 +198,8 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
     - [ ] [Introductory slides](https://www.ece.uvic.ca/~itraore/elec567-13/notes/dist-03-4.pdf)
 
 - ### Terminal Usage
+    - Useful sources:
+        - [Install and update Git](https://phoenixnap.com/kb/how-to-update-git)  
 
 - ### Workings of OSs
 
