@@ -165,6 +165,7 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 ## Version Control
 
 - ### Git
+    - [ ] [8 basic commands](https://www.kdnuggets.com/2021/10/8-git-commands-data-scientists.html) 
 
 - ### GitHub
 
