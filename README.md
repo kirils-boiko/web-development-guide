@@ -16,7 +16,6 @@ I intend to continuously update the guide as I venture out into the world of sof
 Inspired by the [step by step guide to becoming a modern backend developer in 2021](https://roadmap.sh/backend).
 
 Another [short guide for beginners](https://www.upwork.com/resources/beginners-guide-back-end-development)
-
 Recommended: [Practical 2021 web development guide](https://www.youtube.com/watch?v=VfGW0Qiy2I0&ab_channel=TraversyMedia)
 
 ---
