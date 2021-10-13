@@ -93,7 +93,7 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 
 - ### HTML
     - Make sure you understand the basics of HTML 5 page structure and semantic tags   
-    - [ ] [Introductory Article](https://html.com/)
+    - [x] [Introductory Article](https://html.com/)
     - [x] Pick one: 
         - [ ] [Tutorial for Beginners from Mosh Programming (video)](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)
         - [x] [Tutorial for Beginners from Clever Programmer (video)](https://www.youtube.com/watch?v=FNGoExJlLQY&ab_channel=CleverProgrammer)
@@ -133,11 +133,11 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 
 - ### Java Core
     - Make sure you understand:
-        - [ ] Object Oriented Programming
-            - [ ] [Inheritance](https://stackify.com/oop-concept-inheritance/)
-            - [ ] [Composition](https://stackify.com/oop-concepts-composition/)
-            - [ ] [Encapsulation](https://stackify.com/oop-concept-for-beginners-what-is-encapsulation/)
-            - [ ] [Polymorphism](https://stackify.com/oop-concept-polymorphism/) 
+        - [x] Object Oriented Programming
+            - [x] [Inheritance](https://stackify.com/oop-concept-inheritance/)
+            - [x] [Composition](https://stackify.com/oop-concepts-composition/)
+            - [x] [Encapsulation](https://stackify.com/oop-concept-for-beginners-what-is-encapsulation/)
+            - [x] [Polymorphism](https://stackify.com/oop-concept-polymorphism/) 
         - [ ] Generics
         - [ ] Concurrency APIs
         - [ ] Collection APIs  
