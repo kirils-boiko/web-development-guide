@@ -219,15 +219,6 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 
 - ### POSIX Basics
 
-- ### Threads and Concurrency
-
-- ### Memory Management
-
-- ### Interprocess Communication
-
-- ### I/O Management
-
-- ### POSIX Basics
 
 ## Continuous Integration
 
