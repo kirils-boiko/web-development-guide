@@ -166,9 +166,12 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 ## Version Control
 
 - ### Git
-    - [ ] [8 basic commands](https://www.kdnuggets.com/2021/10/8-git-commands-data-scientists.html) 
+    - [ ] [8 Basic Commands](https://www.kdnuggets.com/2021/10/8-git-commands-data-scientists.html) 
+    - [ ] [Git Cheatsheet Article](https://towardsdatascience.com/a-git-cheatsheet-that-all-coders-need-bf8ad4d91576)
 
 - ### GitHub
+    - [ ] [GitHub MarkDown](https://guides.github.com/features/mastering-markdown/)
+    - [ ] [More on GitHub Markdown](https://daringfireball.net/projects/markdown/syntax#html)
 
 ## Databases
 
@@ -185,7 +188,7 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 
 ## APIs
 
-- [ ] [What is an API?](https://www.mulesoft.com/resources/api/what-is-an-api)
+- [ ] [What Is an API?](https://www.mulesoft.com/resources/api/what-is-an-api)
 
 - ### Authentication
 - ### REST
