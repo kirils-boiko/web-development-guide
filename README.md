@@ -142,7 +142,8 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
         - [ ] Concurrency APIs
         - [ ] Collection APIs  
     - Personal recommendation:
-        - [ ] [80-hour Course from Udemy](https://www.udemy.com/course/java-the-complete-java-developer-course/) 
+        - [ ] [80-hour Course from Udemy](https://www.udemy.com/course/java-the-complete-java-developer-course/)
+        - [Notes and Solutions](https://github.com/kiro-boiko/java-core)
     - Useful sources:
         - [25-hour Course from CodeAcademy](https://www.codecademy.com/learn/learn-java)
         - [Java Brains](https://www.youtube.com/c/JavaBrainsChannel/playlists) 
