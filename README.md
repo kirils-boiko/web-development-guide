@@ -75,7 +75,7 @@ Another short guide for beginners https://www.upwork.com/resources/beginners-gui
 
 ## Web Development Courses
 - Instead of going through the frontend basics and some parts of the rest materials, you can opt for all-in-one courses. Pick one:
-- [ ] [Harvard's CS50 Web Programming Course (personal recommendation)](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript?index=product&queryID=b6de299433c099a0273976b82adf7d23&position=2)
+- [ ] [Harvard's CS50 Web Programming Course](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript?index=product&queryID=b6de299433c099a0273976b82adf7d23&position=2)
 - [ ] [Frontend Masters' 21-hour Bootcamp](https://frontendmasters.com/bootcamp/?utm_source=css-tricks&utm_medium=website&utm_campaign=css-tricks-blog-post)
 
 ## Projects
