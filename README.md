@@ -148,6 +148,7 @@ Recommended: [Practical 2021 web development guide](https://www.youtube.com/watc
     - Useful sources:
         - [25-hour Course from CodeAcademy](https://www.codecademy.com/learn/learn-java)
         - [Java Brains](https://www.youtube.com/c/JavaBrainsChannel/playlists) 
+        - [Java FAQ by Angelika Langer](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
 
 - ### Servlets and JSPs
 
