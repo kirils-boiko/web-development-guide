@@ -141,6 +141,12 @@ Recommended: [Practical 2021 web development guide](https://www.youtube.com/watc
             - [x] [Polymorphism](https://stackify.com/oop-concept-polymorphism/) 
         - [ ] Generics
         - [ ] Concurrency APIs
+            - [ ] Multithreading
+                - [ ] [What Is Multithreading?](https://www.tutorialspoint.com/java/java_multithreading.htm) 
+            - [ ] Synchronization
+                - [ ] [Static and Instance Methods](http://geekexplains.blogspot.com/2008/07/synchronization-of-static-and-instance.html)
+                - [ ] [Reentrant Synchronization](https://geekexplains.blogspot.com/2008/07/what-is-reentrant-synchronization-in.html) 
+                - [ ] [Constructor Synchronization](http://geekexplains.blogspot.com/2008/07/synchronization-of-constructors-not.html) 
         - [ ] Collection APIs  
     - Personal recommendation:
         - [ ] [80-hour Course from Udemy](https://www.udemy.com/course/java-the-complete-java-developer-course/)
