@@ -140,6 +140,8 @@ Recommended: [Practical 2021 web development guide](https://www.youtube.com/watc
             - [x] [Encapsulation](https://stackify.com/oop-concept-for-beginners-what-is-encapsulation/)
             - [x] [Polymorphism](https://stackify.com/oop-concept-polymorphism/) 
         - [ ] Generics
+            - [ ] [What Is Java Generics?](http://www.angelikalanger.com/GenericsFAQ/FAQSections/Fundamentals.html#What%20are%20Java%20generics?)
+            - [ ] [Java Generics FAQ by Angelika Langer](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
         - [ ] Concurrency APIs
             - [ ] Multithreading
                 - [ ] [What Is Multithreading?](https://www.tutorialspoint.com/java/java_multithreading.htm) 
@@ -156,7 +158,7 @@ Recommended: [Practical 2021 web development guide](https://www.youtube.com/watc
     - Useful sources:
         - [25-hour Course from CodeAcademy](https://www.codecademy.com/learn/learn-java)
         - [Java Brains](https://www.youtube.com/c/JavaBrainsChannel/playlists) 
-        - [Java FAQ by Angelika Langer](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
+        
 
 - ### Servlets and JSPs
 
