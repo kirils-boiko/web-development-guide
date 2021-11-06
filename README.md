@@ -143,6 +143,7 @@ Recommended: [Practical 2021 web development guide](https://www.youtube.com/watc
         - [ ] Concurrency APIs
             - [ ] Multithreading
                 - [ ] [What Is Multithreading?](https://www.tutorialspoint.com/java/java_multithreading.htm) 
+                - [ ] [Locks](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/locks/Lock.html)
                 - [ ] [Deadlock](https://www.javatpoint.com/deadlock-in-java)
             - [ ] Synchronization
                 - [ ] [Static and Instance Methods](http://geekexplains.blogspot.com/2008/07/synchronization-of-static-and-instance.html)
