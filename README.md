@@ -156,6 +156,7 @@ Recommended: [Practical 2021 web development guide](https://www.youtube.com/watc
             - [ ] [Java Regular Expressions](https://www.w3schools.com/java/java_regex.asp)
             - [ ] [Java RegEx Oracle Documentation](https://www.oracle.com/technical-resources/articles/java/regex.html)
             - [ ] [Java RegEx Cheat Sheet by JRebel](https://www.jrebel.com/blog/java-regular-expressions-cheat-sheet)
+            - [ ] [Matcher Class Oracle Documentation](https://docs.oracle.com/javase/7/docs/api/java/util/regex/Matcher.html)
     - Personal recommendation:
         - [ ] [80-hour Course from Udemy](https://www.udemy.com/course/java-the-complete-java-developer-course/)
         - [Notes and Solutions](https://github.com/kiro-boiko/java-core)
