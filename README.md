@@ -193,6 +193,8 @@ Recommended: [Practical 2021 web development guide](https://www.youtube.com/watc
 ## Databases
 
 - ### SQL (Relational) Databases
+    - PostgreSQL and pgAdmin 4
+        - [Documentation](https://www.postgresql.org/docs/)
 - ### NoSQL Databases
 - ### ORMs
     - [ ] Sequelize
