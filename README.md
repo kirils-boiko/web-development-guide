@@ -158,7 +158,7 @@ Recommended: [Practical 2021 web development guide](https://www.youtube.com/watc
             - [ ] [Java RegEx Cheat Sheet by JRebel](https://www.jrebel.com/blog/java-regular-expressions-cheat-sheet)
             - [ ] [Matcher Class Oracle Documentation](https://docs.oracle.com/javase/7/docs/api/java/util/regex/Matcher.html)
         - [ ] Database Connectivity
-            - [ ]  
+            - [JDBC SQLite Drivers](https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/)
     - Personal recommendation:
         - [ ] [80-hour Course from Udemy](https://www.udemy.com/course/java-the-complete-java-developer-course/)
         - [Notes and Solutions](https://github.com/kiro-boiko/java-core)
