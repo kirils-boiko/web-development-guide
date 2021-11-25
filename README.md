@@ -142,6 +142,7 @@ Recommended: [Practical 2021 web development guide](https://www.youtube.com/watc
         - [ ] Generics
             - [ ] [What Is Java Generics?](http://www.angelikalanger.com/GenericsFAQ/FAQSections/Fundamentals.html#What%20are%20Java%20generics?)
             - [ ] [Java Generics FAQ by Angelika Langer](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
+            - [ ] [Oracle's Lesson On Generics](https://docs.oracle.com/javase/tutorial/java/generics/)
         - [ ] Concurrency APIs
             - [ ] Multithreading
                 - [ ] [What Is Multithreading?](https://www.tutorialspoint.com/java/java_multithreading.htm) 
@@ -154,7 +155,8 @@ Recommended: [Practical 2021 web development guide](https://www.youtube.com/watc
         - [ ] Collection APIs
             - [ ] [Collections Overview](https://docs.oracle.com/javase/7/docs/technotes/guides/collections/overview.html)
             - [ ] ["True" Collections](https://www.javatpoint.com/collections-in-java)
-            - [ ] ["Map" Collections](https://www.javatpoint.com/java-map)   
+            - [ ] ["Map" Collections](https://www.javatpoint.com/java-map)
+            - [ ] [Oracle's Tutorial](https://docs.oracle.com/javase/tutorial/collections/index.html)   
         - [ ] Java RegEx
             - [ ] [Java Regular Expressions](https://www.w3schools.com/java/java_regex.asp)
             - [ ] [Java RegEx Oracle Documentation](https://www.oracle.com/technical-resources/articles/java/regex.html)
