@@ -152,6 +152,9 @@ Recommended: [Practical 2021 web development guide](https://www.youtube.com/watc
                 - [ ] [Reentrant Synchronization](https://geekexplains.blogspot.com/2008/07/what-is-reentrant-synchronization-in.html) 
                 - [ ] [Constructor Synchronization](http://geekexplains.blogspot.com/2008/07/synchronization-of-constructors-not.html) 
         - [ ] Collection APIs
+            - [ ] [Collections Overview](https://docs.oracle.com/javase/7/docs/technotes/guides/collections/overview.html)
+            - [ ] ["True" Collections](https://www.javatpoint.com/collections-in-java)
+            - [ ] ["Map" Collections](https://www.javatpoint.com/java-map)   
         - [ ] Java RegEx
             - [ ] [Java Regular Expressions](https://www.w3schools.com/java/java_regex.asp)
             - [ ] [Java RegEx Oracle Documentation](https://www.oracle.com/technical-resources/articles/java/regex.html)
