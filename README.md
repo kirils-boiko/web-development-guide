@@ -139,34 +139,34 @@ Recommended: [Practical 2021 web development guide](https://www.youtube.com/watc
             - [x] [Composition](https://stackify.com/oop-concepts-composition/)
             - [x] [Encapsulation](https://stackify.com/oop-concept-for-beginners-what-is-encapsulation/)
             - [x] [Polymorphism](https://stackify.com/oop-concept-polymorphism/) 
-        - [ ] Generics
-            - [ ] [What Is Java Generics?](http://www.angelikalanger.com/GenericsFAQ/FAQSections/Fundamentals.html#What%20are%20Java%20generics?)
-            - [ ] [Java Generics FAQ by Angelika Langer](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
-            - [ ] [Oracle's Tutorial On Generics](https://docs.oracle.com/javase/tutorial/java/generics/)
-        - [ ] Concurrency APIs
-            - [ ] Multithreading
-                - [ ] [What Is Multithreading?](https://www.tutorialspoint.com/java/java_multithreading.htm) 
-                - [ ] [Locks](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/locks/Lock.html)
-                - [ ] [Deadlock](https://www.javatpoint.com/deadlock-in-java)
-            - [ ] Synchronization
-                - [ ] [Static and Instance Methods](http://geekexplains.blogspot.com/2008/07/synchronization-of-static-and-instance.html)
-                - [ ] [Reentrant Synchronization](https://geekexplains.blogspot.com/2008/07/what-is-reentrant-synchronization-in.html) 
-                - [ ] [Constructor Synchronization](http://geekexplains.blogspot.com/2008/07/synchronization-of-constructors-not.html) 
-            - [ ] [Oracle's Tutorial on Concurrency](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)
-        - [ ] Collection APIs
-            - [ ] [Collections Overview](https://docs.oracle.com/javase/7/docs/technotes/guides/collections/overview.html)
-            - [ ] ["True" Collections](https://www.javatpoint.com/collections-in-java)
-            - [ ] ["Map" Collections](https://www.javatpoint.com/java-map)
-            - [ ] [Oracle's Tutorial on Collections](https://docs.oracle.com/javase/tutorial/collections/index.html)   
-        - [ ] Java RegEx
-            - [ ] [Java Regular Expressions](https://www.w3schools.com/java/java_regex.asp)
-            - [ ] [Java RegEx Oracle Documentation](https://www.oracle.com/technical-resources/articles/java/regex.html)
-            - [ ] [Java RegEx Cheat Sheet by JRebel](https://www.jrebel.com/blog/java-regular-expressions-cheat-sheet)
-            - [ ] [Matcher Class Oracle Documentation](https://docs.oracle.com/javase/7/docs/api/java/util/regex/Matcher.html)
-        - [ ] Database Connectivity
+        - [x] Generics
+            - [x] [What Is Java Generics?](http://www.angelikalanger.com/GenericsFAQ/FAQSections/Fundamentals.html#What%20are%20Java%20generics?)
+            - [x] [Java Generics FAQ by Angelika Langer](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
+            - [x] [Oracle's Tutorial On Generics](https://docs.oracle.com/javase/tutorial/java/generics/)
+        - [x] Concurrency APIs
+            - [x] Multithreading
+                - [x] [What Is Multithreading?](https://www.tutorialspoint.com/java/java_multithreading.htm) 
+                - [x] [Locks](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/locks/Lock.html)
+                - [x] [Deadlock](https://www.javatpoint.com/deadlock-in-java)
+            - [x] Synchronization
+                - [x] [Static and Instance Methods](http://geekexplains.blogspot.com/2008/07/synchronization-of-static-and-instance.html)
+                - [x] [Reentrant Synchronization](https://geekexplains.blogspot.com/2008/07/what-is-reentrant-synchronization-in.html) 
+                - [x] [Constructor Synchronization](http://geekexplains.blogspot.com/2008/07/synchronization-of-constructors-not.html) 
+            - [x] [Oracle's Tutorial on Concurrency](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)
+        - [x] Collection APIs
+            - [x] [Collections Overview](https://docs.oracle.com/javase/7/docs/technotes/guides/collections/overview.html)
+            - [x] ["True" Collections](https://www.javatpoint.com/collections-in-java)
+            - [x] ["Map" Collections](https://www.javatpoint.com/java-map)
+            - [x] [Oracle's Tutorial on Collections](https://docs.oracle.com/javase/tutorial/collections/index.html)   
+        - [x] Java RegEx
+            - [x] [Java Regular Expressions](https://www.w3schools.com/java/java_regex.asp)
+            - [x] [Java RegEx Oracle Documentation](https://www.oracle.com/technical-resources/articles/java/regex.html)
+            - [x] [Java RegEx Cheat Sheet by JRebel](https://www.jrebel.com/blog/java-regular-expressions-cheat-sheet)
+            - [x] [Matcher Class Oracle Documentation](https://docs.oracle.com/javase/7/docs/api/java/util/regex/Matcher.html)
+        - [x] Database Connectivity
             - [JDBC SQLite Drivers](https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/)
     - Personal recommendation:
-        - [ ] [80-hour Course from Udemy](https://www.udemy.com/course/java-the-complete-java-developer-course/)
+        - [x] [80-hour Course from Udemy](https://www.udemy.com/course/java-the-complete-java-developer-course/)
         - [Notes and Solutions](https://github.com/kiro-boiko/java-core)
     - Useful sources:
         - [25-hour Course from CodeAcademy](https://www.codecademy.com/learn/learn-java)
